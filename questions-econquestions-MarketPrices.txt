@@ -1,0 +1,13 @@
+// question: 0  name: Switch category to $course$/MarketPrices
+$CATEGORY: $course$/MarketPrices
+
+
+// question: 2  name: ECONMP001
+::ECONMP001::[html]<p>Which of the following are synonymous terms for the one price of a good at which the most buyers and sellers satisfy their preferences?</p>{
+	~%33.33333%<p>market price</p>
+	~%33.33333%<p>market-clearing price</p>#Refers to the price at which there is no excess supply or demand; subsequently it is the price that clears the market.
+	~%33.33333%<p>equilibrium price</p>#<p>Neither buyers nor sellers have an incentive to pay more or charge less</p>
+	=<p>All of the above</p>
+}
+
+

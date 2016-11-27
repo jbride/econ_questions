@@ -1,0 +1,13 @@
+// question: 0  name: Switch category to $course$/IndirectExchange
+$CATEGORY: $course$/IndirectExchange
+
+
+// question: 3  name: ECONIE001
+::ECONIE001::[html]<p>Which of the following has been devised to alleviate the &nbsp;<i>lack of double coincidence of wants problem ?</i></p>{
+	=<p>Medium of exchange</p>
+	~<p>Barter economy</p>
+	~<p>Theft</p>
+	~<p>None of the above</p>
+}
+
+
